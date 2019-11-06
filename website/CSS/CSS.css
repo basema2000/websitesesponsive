@@ -1,0 +1,250 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.cover{
+    background-image:url('../img/b.jpg');
+    height: 700px;
+   background: no-repeat;
+    
+   
+}
+.op{
+    background-color: rgba(31, 27, 231, 0.6);
+    height: 700px;
+}
+.logo{
+    color: white;
+    float: left;
+    padding-left: 6%;
+    padding-top: 3%;
+    float: left;
+
+}
+.n1{
+    float:right;;
+    margin-right: 10%;
+    padding-top: 3%;
+    margin: 25px;
+}
+.n1{
+    text-decoration: none;
+    text-transform: capitalize;
+    color: white;
+    font-size: 20px;
+   padding-left: 30px;
+}
+.center{
+    text-align: center;
+    color: white;
+    padding-top: 20%;
+    
+}
+.headRES{
+    font-size: 70px;
+}
+.h33{
+    font-size: 30px;
+    padding-top: 1%;
+}
+.D2{
+    margin-top: 10%;
+    text-align: center;}
+.btn1{
+    background-color: rgb(6, 7, 7);
+    color: white;
+    font-weight: bold;
+    height: 50px;
+    width: 230px;
+    border-radius:3%;
+    border: none;
+    margin-top: 3%;
+}
+.h11{
+    padding-bottom: 3%;}
+
+
+    .imges{
+        display: flex;
+       flex-wrap: wrap;
+       justify-content: space-between;
+       margin-left: 8.5%;
+       margin-right: 8.5%;
+       margin-top: 5.5%;
+    }
+    .i1,.i4{
+        flex-shrink: 1;
+        height: 310px;
+        width: 450px;
+        margin-bottom: 3%;
+    }
+    .i1{
+        margin-right: 3%;
+    }
+    .i3{
+        margin-right: 3%;
+    }
+    .i2,.i3{
+        flex-grow:4;
+       height: 310px;
+       
+    }
+    .i4{
+        background-color:whitesmoke;
+        text-align: center; 
+       padding-top: 10%;
+       }
+       .d4{
+        background-color:#F7F7F7;
+       padding-top: 10%;
+        text-align: center; }
+        .hh2{
+            padding-bottom: 25%;}
+
+            .hb{
+                padding-top: 4%;
+                padding-bottom: 4%;
+                padding-left: 20%;
+                padding-right: 20%;}
+                .m11{
+                    height: 300px;
+                    width: 32.3%;
+                    float: left;
+                    padding-left: 7%;
+                    padding-right: 7%;}
+                    .h6{
+                        padding-top: 5%;
+                        text-align: center;}
+                        .h7{
+                            padding-top: 10%;}
+
+
+                            .m1{
+                                height: 300px;
+                                width: 32.3%;
+                                float: left;
+                                padding-left: 7%;
+                                padding-right: 7%;}
+
+                               .h0{
+                                    padding-top: 5%;
+                                    text-align: center;}
+                                
+            
+                                    .m8{
+                                        padding-top: 10%;
+                                    }
+                                    .g{
+                                        padding-top: 5%;
+                                        text-align: center;}
+                                        .d6{
+                                            background-color: #F7F7F7;
+                                            margin-top: 10%;
+                                            text-align: center;
+                                            height: 700px;    } 
+                                            
+                                            
+                                            .hh6{
+                                                padding-top: 10%;
+                                            }
+                                            .hh3{
+                                                padding-top: 4%;
+                                            }   
+                                            
+                                            
+                                            .s{
+                                                height: 50px;
+                                                width: 550px;
+                                                float: left;
+                                                margin-top: 10%;
+                                                margin-left: 20%;
+                                                margin-bottom: 10%;
+                                                padding-left: 2%;
+                                                font-weight: bold;
+                                                font-size: 20px;
+                                            
+                                            }
+                                            .btn{
+                                                height: 50px;
+                                                width: 200px;
+                                                float: left;
+                                                margin-top: 10%;
+                                                margin-left: 2%;
+                                                color: white;
+                                                font-weight: bold;
+                                                border: none;
+                                                border-radius: 2%;
+                                                font-size: 16px;
+                                                background-color: #37A0F3;
+                                            }
+                                            .sserch{
+                                                text-align: center;
+                                                padding-left: 6%;
+                                            }
+
+                                            .d5{
+                                                text-align: center;
+                                                margin-top: 10%;
+                                            }
+                                            .d6{
+                                                background-color: #F7F7F7;
+                                                margin-top: 10%;
+                                                text-align: center;
+                                                height: 700px;
+                                            }
+                                            .HS1{
+                                                padding-top: 10%;
+                                            }
+                                            .HS3{
+                                                padding-top: 4%;
+                                            }  
+                                            
+                                            .footer{
+                                                background-color:rgb(69, 70, 69);
+                                                height:200px;
+                                                width:100%;
+                                                
+                                            }
+                                            
+                                         
+                                            .font{
+                                                color: white;
+                                                font-size: 30px;
+                                                padding-left: 1%;
+                                                margin-top: 5%;
+                                            }
+                                            .hw{
+                                                color: white;
+                                                text-align: center;
+                                                word-spacing: 2px;
+                                                margin-top: 2%;
+                                                text-transform: uppercase;
+                                                padding-bottom: 12px;
+                                            }
+                                            .logo{
+                                                text-align: center;
+                                                margin: 50px;
+                                                padding: 20px;
+                                                padding-top: 10px;
+                                                
+                                            }
+                                                
+                                                .hv{
+                                                    color: white;
+                                                    text-align: center;
+                                                 
+                                                    padding-bottom: 5%;
+                                                    word-spacing: 2px;
+                                                   
+                                                }
+                                                .HF3 {
+                                                    padding-top: 4%;
+                                                    padding-bottom: 4%;
+                                                    padding-left: 20%;
+                                                    padding-right: 20%;
+                                                }
+                                                .hw{
+                                                    padding-top: 50px;
+                                                }
